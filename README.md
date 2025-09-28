@@ -4,4 +4,6 @@
 
 A case for the ![Stress](https://github.com/GroooveBob/Stress) gamepad by GroooveBob
 
+Check out the manual ![here](https://github.com/SineScire/StressCase/blob/main/Manual.md)
+
 ![](https://github.com/SineScire/StressCase/blob/22d973d6c2a56c8cb491c1062caad2ffedfec33d/Images/Stress.jpg)
