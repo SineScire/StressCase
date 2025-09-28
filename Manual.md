@@ -33,3 +33,4 @@ The case can be assembled by placing the switchplate and the gamepad in the top 
 The case was designed to be used with 5mm thick tactile buttons, see if the buttons for the tactile buttons work correctly.
 
 Finish the assembly by placing your switches and keycaps of choise and enjoy the gamepad!
+![](https://github.com/SineScire/StressCase/blob/44c94e00a4665535abb8d26fbf079ca8744d2108/Images/Stress.jpg)
