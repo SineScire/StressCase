@@ -10,8 +10,8 @@
 | Tactile Buttons* | 6x | 5mm high 6x6mm buttons |
 | MCU* | 1x | Either the RP2040_Zero or the Gemini |
 | Switches* | 12x | Choc switches |
-| Keycaps* | 12x | 
-| Choc Hot Swap Sockets* | 12x |
+| Keycaps* | 12x |  Choc keycaps |
+| Choc Hot Swap Sockets* | 12x | Hot swap sockets for the switches |
 
 \* Parts for the board it self
 
